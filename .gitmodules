@@ -1,0 +1,6 @@
+[submodule "wmanager-api"]
+	path = wmanager-api
+	url = https://github.com/guilherme4garcia/wmanager-api
+[submodule "wmanager-react"]
+	path = wmanager-react
+	url = https://github.com/guilherme4garcia/wmanager-react
