@@ -1,4 +1,4 @@
-# wmanager
+# WManager
 
 ## Desafio
 
