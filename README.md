@@ -37,7 +37,7 @@ A plataforma possui intefaces diferentes para usuários e administradores. Após
 - [Frontend Code access link](https://github.com/guilherme4garcia/wmanager-react/)
 - [Backend Code access link](https://github.com/guilherme4garcia/wmanager-api/)
 
-## 🛠 Tecmologias
+## 🛠 Tecnologias
 
 Para a construção do projeto as seguintes tecnologias foram utilizadas:
 
