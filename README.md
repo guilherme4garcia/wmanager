@@ -14,14 +14,32 @@ precisa estar registrado em algum ambiente (sala).
 
 A plataforma possui intefaces diferentes para usuários e administradores. Após o login o usuário e redirecionado para a interface do administrador ou funcionário, dependendo de suas credenciais. O sistema conta com um sistema completo de autenticação atraves de tokens e é possível para o administrador gerenciar os usuários através de uma interface gráfica.
 
+### Administrador - Gestão de funcionários
+![tela1](https://github.com/guilherme4garcia/wmanager/blob/main/wmanager%20assets/Capture1.PNG)
+
+### Interface do Administrador - Gestão de equipamentos 
+![tela2](https://github.com/guilherme4garcia/wmanager/blob/main/wmanager%20assets/Capture2.PNG)
+
+### Cadastro de um novo equipamento
+![tela3](https://github.com/guilherme4garcia/wmanager/blob/main/wmanager%20assets/Capture3.PNG)
+
+### A aplicação conta com tema escuro
+![tela4](https://github.com/guilherme4garcia/wmanager/blob/main/wmanager%20assets/Capture4.PNG)
+
+### Interface do Usuário
+![tela5](https://github.com/guilherme4garcia/wmanager/blob/main/wmanager%20assets/Capture5.PNG)
+
+### Aplicação rensposiva para dispositivos móveis
+![tela6](https://github.com/guilherme4garcia/wmanager/blob/main/wmanager%20assets/Capture6.PNG)
+
 ## 📃 Codes
 
 - [Frontend Code access link](https://github.com/guilherme4garcia/wmanager-react/)
 - [Backend Code access link](https://github.com/guilherme4garcia/wmanager-api/)
 
-## 🛠 Technologies
+## 🛠 Tecmologias
 
-Para a construção do projeto, as seguintes tecnologias foram utilizadas:
+Para a construção do projeto as seguintes tecnologias foram utilizadas:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,7 +51,7 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 
 ## 👨‍💻 Team
 
-- Guilherme Silva Garcia
-- Natália Bíscaro
-- Ana Clara Ramos
-- Gustavo Lopes
+- Guilherme Silva Garcia (Scrum Master)
+- Natália Bíscaro (PO)
+- Ana Clara Ramos (Dev)
+- Gustavo Lopes (Dev)
